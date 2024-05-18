@@ -5,9 +5,9 @@ This project is used to add, edit delete earninigs nad expense. use can view thi
 
 Before setting up the application in your local environment, change the Database URL in /database/connections.js file.
  
-run 
-### `npm run serve`
-before running the project
+run following command before running the project
+ 
+### `npm install`
 
 ## Available Scripts
 
